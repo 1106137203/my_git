@@ -1,4 +1,9 @@
+:root{
+	--back_color:lightgoldenrodyellow;
+}
+
 body {
+	background-color: var(--back_color);
 	margin: 0;
 	text-align: center;
 }
